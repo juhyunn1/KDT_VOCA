@@ -1,0 +1,137 @@
+{
+  "days": [
+    {
+      "id": 1,
+      "day": 1
+    },
+    {
+      "id": 2,
+      "day": 2
+    },
+    {
+      "id": 3,
+      "day": 3
+    },
+    {
+      "id": 4,
+      "day": 4
+    },
+    {
+      "id": 5,
+      "day": 5
+    },
+    {
+      "id": 6,
+      "day": 6
+    },
+    {
+      "id": 7,
+      "day": 7
+    },
+    {
+      "id": 8,
+      "day": 8
+    },
+    {
+      "id": 9,
+      "day": 9
+    },
+    {
+      "id": 10,
+      "day": 10
+    }
+  ],
+  "words": [
+    {
+      "id": 1,
+      "day": 1,
+      "eng": "apple",
+      "kor": "사과",
+      "isDone": false
+    },
+    {
+      "id": 2,
+      "day": 1,
+      "eng": "banana",
+      "kor": "바나나",
+      "isDone": false
+    },
+    {
+      "id": 3,
+      "day": 1,
+      "eng": "orange",
+      "kor": "오렌지",
+      "isDone": false
+    },
+    {
+      "id": 4,
+      "day": 1,
+      "eng": "grape",
+      "kor": "포도",
+      "isDone": false
+    },
+    {
+      "id": 5,
+      "day": 1,
+      "eng": "strawberry",
+      "kor": "딸기",
+      "isDone": false
+    },
+    {
+      "id": 6,
+      "day": 1,
+      "eng": "watermelon",
+      "kor": "수박",
+      "isDone": false
+    },
+    {
+      "id": 7,
+      "day": 3,
+      "eng": "melon",
+      "kor": "멜론",
+      "isDone": false
+    },
+    {
+      "id": 8,
+      "day": 3,
+      "eng": "pineapple",
+      "kor": "파인애플",
+      "isDone": false
+    },
+    {
+      "id": 9,
+      "day": 3,
+      "eng": "pear",
+      "kor": "배",
+      "isDone": false
+    },
+    {
+      "id": 10,
+      "day": 2,
+      "eng": "peach",
+      "kor": "복숭아",
+      "isDone": false
+    },
+    {
+      "id": 11,
+      "day": 2,
+      "eng": "cherry",
+      "kor": "체리",
+      "isDone": true
+    },
+    {
+      "id": 12,
+      "day": 2,
+      "eng": "mango",
+      "kor": "망고",
+      "isDone": false
+    },
+    {
+      "day": 0,
+      "eng": "tiger",
+      "kor": "호랑이",
+      "isDone": false,
+      "id": 13
+    }
+  ]
+}
